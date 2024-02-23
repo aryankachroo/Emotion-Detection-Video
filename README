@@ -1,0 +1,6 @@
+You need to download the fer2013 dataset in order to run this.
+
+Title: Real-Time Emotion Detection System
+
+Description:
+This report outlines the development of a real-time emotion detection system for streaming video data. Leveraging deep learning techniques, the system aims to accurately identify predominant emotions in each frame, facilitating applications in human-computer interaction, content personalization, and mental health monitoring. Key activities include data collection, model training, real-time implementation, and deployment, with a focus on addressing challenges such as computational efficiency and variability in expressions. The outcome is a reliable tool with potential impacts on user experiences and mental health awareness.
